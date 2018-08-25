@@ -1,7 +1,7 @@
 List with  strange things
 **************************
 
-If You know some strange or not obies thinks in Python create PR :)
+If You know some strange or not obvious things in Python create issue or PR. 
 
 Example
 
