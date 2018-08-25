@@ -1,4 +1,4 @@
-# List with  strange things
+# List of strange things
 
 
 #### If You know some strange or not obvious things in Python create issue or PR.
